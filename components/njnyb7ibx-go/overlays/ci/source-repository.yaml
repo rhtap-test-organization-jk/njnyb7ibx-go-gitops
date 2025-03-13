@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: njnyb7ibx-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/njnyb7ibx-go
